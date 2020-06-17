@@ -1,0 +1,13 @@
+C:\Users\aless\Desktop\CifraDECesar\bin\Debug\netcoreapp3.1\CifraDECesar.exe
+C:\Users\aless\Desktop\CifraDECesar\bin\Debug\netcoreapp3.1\CifraDECesar.deps.json
+C:\Users\aless\Desktop\CifraDECesar\bin\Debug\netcoreapp3.1\CifraDECesar.runtimeconfig.json
+C:\Users\aless\Desktop\CifraDECesar\bin\Debug\netcoreapp3.1\CifraDECesar.runtimeconfig.dev.json
+C:\Users\aless\Desktop\CifraDECesar\bin\Debug\netcoreapp3.1\CifraDECesar.dll
+C:\Users\aless\Desktop\CifraDECesar\bin\Debug\netcoreapp3.1\CifraDECesar.pdb
+C:\Users\aless\Desktop\CifraDECesar\obj\Debug\netcoreapp3.1\CifraDECesar.csprojAssemblyReference.cache
+C:\Users\aless\Desktop\CifraDECesar\obj\Debug\netcoreapp3.1\CifraDECesar.AssemblyInfoInputs.cache
+C:\Users\aless\Desktop\CifraDECesar\obj\Debug\netcoreapp3.1\CifraDECesar.AssemblyInfo.cs
+C:\Users\aless\Desktop\CifraDECesar\obj\Debug\netcoreapp3.1\CifraDECesar.csproj.CoreCompileInputs.cache
+C:\Users\aless\Desktop\CifraDECesar\obj\Debug\netcoreapp3.1\CifraDECesar.dll
+C:\Users\aless\Desktop\CifraDECesar\obj\Debug\netcoreapp3.1\CifraDECesar.pdb
+C:\Users\aless\Desktop\CifraDECesar\obj\Debug\netcoreapp3.1\CifraDECesar.genruntimeconfig.cache

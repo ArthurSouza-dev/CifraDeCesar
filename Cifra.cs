@@ -12,10 +12,13 @@ namespace ConsoleApplication4
         {
             string txt1 = "", txt2 = "";
             int numCar = 0, num = 0, escolha;
+            Console.WriteLine("Escolha a quantidade de casas que quer pular");
             Console.WriteLine("Digite 1 para criptografar!");
             Console.WriteLine("Digite 2 para descriptografar!");
             Console.WriteLine("Digite 3 para encerrar a aplicação!");
             escolha = Convert.ToInt16(Console.ReadLine());
+            
+
 
             switch(escolha)
             {
